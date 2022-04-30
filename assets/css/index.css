@@ -1,18 +1,24 @@
- *{
-     padding: 0;
-     margin: 0;
- }
- body{
-      box-sizing: border-box;
-
- }
- .menu-bar{
-     background:rgb(0, 0, 50) ;
-     text-align: center;
+.label{
+display: block;
+text-align: right;
+}
+.menu-bar{
+     text-align: left;
 
  }
  .menu-bar ul{
      display: inline-flex;
      list-style: none;
-    
+     width: 100px;
+     margin: 15px;
+     padding: 15px; 
+     text-align: right; 
  }
+ .menu-bar ul li{
+     float: left;
+     display: inline-flex;
+     margin: 15px;
+     width: 15px;
+ }
+ 
+ 
