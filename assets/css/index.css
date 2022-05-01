@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
 }
 body{   
     font-family: 'Times New Roman', Times, serif;
@@ -107,7 +108,7 @@ a.active{
 .h-orientation
 {
     box-sizing: border-box;
-    display: block;
+    display: inline-block;
     padding-right: 20px;
 
 }
@@ -133,10 +134,7 @@ a.active{
     width: 25%;
     padding-right: 8px;
 }
-#jpg9
-{
-    padding-left: 20px;
-}
+
 .ul
 {
     list-style: none;
@@ -162,6 +160,49 @@ li
     box-sizing: border-box;
     display: flex;
 }
+.container
+{
+    position: relative;
+    text-align: center;
+    color: #EC4067;
+}
+.but4
+{
+    float: left;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 6px;
+    padding: 7px;
+    margin-right: 75px;
+}
+#but4
+{
+    background-color:white;
+    border-color: #ec4067;
+}
+#project
+{
+    padding-left: 15px;
+    font-size: 17px;
+}
+#jpg9
+{
+    padding-left: 20px;
+}
+#web
+{
+    padding-right: 15px;
+    font-size: small;
+}
+
+#coolbike
+{
+    padding-left: 15px;
+    font-size: x-large;
+    color: #ec4067;
+}
+
 
 
 
