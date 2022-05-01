@@ -39,6 +39,99 @@ nav ul li a{
 a.active{
     background: #EC4067;
 }
+.head
+{
+    padding-left: 10px;
+    font-size: 8px;
+    margin-left: 30px;
+}
+.head1
+{
+    padding-left: 50px;
+}
+#h2
+{
+    color: #ec4067;
+    padding-left: 0px;
+}
+.but1
+{
+    float: left;
+    border: #ec4067;
+    padding: 15px;
+    margin-top: 15px;
+    font-size: 18px;
+}
+#but1
+{
+   background-color: #EC4067;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 7px;
+
+
+}
+.but2
+{
+    float: left;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+#but2
+{
+    border-color: #ec4067;
+}
+.jpg1
+{
+    width: 200px;
+    height: 200px;
+    padding-left: 0px;
+
+}
+.jpg2
+{
+    width: 25%;
+    padding-right: 8px;
+}
+#jpg2
+{
+    padding-left: 20px;
+}
+.ul
+{
+    list-style: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+li
+{
+    float: left;
+}
+.ment
+{
+    width: 40%;
+    float: left;
+    margin-left: 40px;
+    padding: 30px;
+}
+.ment img
+{
+    height: 200px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+
+
+
 
   
  
