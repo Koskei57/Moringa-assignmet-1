@@ -265,14 +265,22 @@ nav a.active{
 {
     position: relative;
     top: -150px;
+    left: 100px;
 }
 .bike
 {
     position: relative;
     top: -100px;
+    left: 100px;
 }
-
-
+.sure
+{
+    position: relative;
+    top: 180px;
+    left: -180px;
+    font-size: 25px;
+    border-radius: 30px;
+}
 
 
 
